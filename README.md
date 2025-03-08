@@ -1,4 +1,6 @@
-I build scalable web apps and design systems, with expertise across Svelte, React, Vue, Angular, and more. Fast learner, always exploring new frameworks and optimizing UI performance.
+Hi, I'm Daniel Acuña 👋
 
-🔧 Tech: Svelte, React, Vue, TypeScript, Three.js
+🔧 Tech: Svelte, React, Vue, Angular, TypeScript, Three.js
 🌱 Currently exploring: Shaders, Creative UI Interactions
+
+> Note: Yes, real experience with all frameworks. I still loving React and Next.JS
